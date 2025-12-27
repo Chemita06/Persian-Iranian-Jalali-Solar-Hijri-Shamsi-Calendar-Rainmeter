@@ -2,6 +2,9 @@
 
 A clean **Persian (Jalali / Shamsi / Solar Hijri) calendar** skin for Rainmeter that shows the current Persian date on your Windows desktop.
 
+![Persian Jalali Calendar Screenshot](./screenshot.jpg)
+
+
 ---
 
 ## ✨ Features
