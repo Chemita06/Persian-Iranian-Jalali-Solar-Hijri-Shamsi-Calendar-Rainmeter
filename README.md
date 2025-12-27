@@ -60,5 +60,7 @@ A clean **Persian (Jalali / Shamsi / Solar Hijri) calendar** skin for Rainmeter 
 
 ## 🙏 Credits & License
 
-- الهام‌گرفته از انواع تقویم‌های فارسی / جلالی برای Rainmeter و پیاده‌سازی‌های تقویم شمسی.  
+- الهام‌گرفته از انواع تقویم‌های فارسی / جلالی برای Rainmeter و پیاده‌سازی‌های تقویم شمسی.
+- https://github.com/farshad991/illustro-Persian-Calendar
+- https://github.com/adelghaenian/Shamsi-Calendar-Rainmeter-V2
 - نوع لایسنس را در این بخش (و در فایل `LICENSE`) مشخص کن، مثلاً **MIT** یا هر لایسنس دلخواه دیگر.
