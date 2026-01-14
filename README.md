@@ -1,68 +1,67 @@
-# 📅 Persian / Iranian Jalali Calendar for Rainmeter
+# 🌙 Persian-Iranian-Jalali-Solar-Hijri-Shamsi-Calendar-Rainmeter - A Beautiful Calendar for Your Desktop
 
-A clean **Persian (Jalali / Shamsi / Solar Hijri) calendar** skin for Rainmeter that shows the current Persian date on your Windows desktop.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Persian%20Calendar-red)](https://github.com/Chemita06/Persian-Iranian-Jalali-Solar-Hijri-Shamsi-Calendar-Rainmeter/releases)
 
-![Persian Jalali Calendar Screenshot](./screenshot.jpg)
+## 📖 Description
+The Persian (Iranian) Jalali Solar Hijri (Shamsi) Calendar Rainmeter Skin Widget displays an elegant calendar on your Windows desktop. It enhances your desktop with a practical, visually appealing way to keep track of dates in the Persian calendar.
 
+## 🚀 Getting Started
+Follow these steps to download and set up the Persian Calendar Rainmeter Skin Widget on your computer.
 
----
+### ⚙️ System Requirements
+- Windows 7 or later
+- Rainmeter installed (You can download it from [rainmeter.net](https://www.rainmeter.net))
+- Basic familiarity with using desktop widgets
 
-## ✨ Features
+## 📦 Download & Install
+1. **Visit the Releases Page:** Click on the link below to access the releases:
+   [GitHub Releases](https://github.com/Chemita06/Persian-Iranian-Jalali-Solar-Hijri-Shamsi-Calendar-Rainmeter/releases)
 
-- 📆 Full Jalali (Shamsi / Solar Hijri) date display  
-- 🕌 Optional Hijri and Gregorian date under the main line  
-- 🗓 Persian weekday and month names  
-- 🎨 Easy to tweak fonts, sizes, and colors in `.ini`  
-- 🪶 Lightweight and low CPU usage  
+2. **Select the Latest Release:** Locate the latest version at the top of the page. 
 
----
+3. **Download the File:** Click on the download link for the `PersianCalendar.skin` file.
 
-## ✅ Requirements
+4. **Extract the Files (if necessary):** If the downloaded file is compressed, extract it to a folder on your computer.
 
-- 🖥 **Windows** with **Rainmeter (latest stable)** installed  
-- 🔤 A font with Persian support (e.g. Vazir, Vazirmatn, IRANSans, etc.)  
+5. **Install the Skin:**
+   - Copy the folder containing the downloaded skin.
+   - Navigate to the Rainmeter skins directory, usually found in `Documents\Rainmeter\Skins`.
+   - Paste the folder you copied into the `Skins` directory.
 
----
+6. **Load Rainmeter:** Open the Rainmeter application if it is not already running.
 
-## 📦 Installation
+7. **Add the Skin to Your Desktop:**
+   - Right-click on the Rainmeter icon in your system tray.
+   - Select "Skins" to find your new calendar skin.
+   - Click on the folder name and choose the `Persian Calendar` skin to add it to your desktop.
 
-### Option 1: Using `.rmskin` (recommended)
+## 🎨 Features
+- Displays the Shamsi date alongside the Gregorian date.
+- Supports customizable appearances to fit your desktop style.
+- Easily updated with new versions when released.
 
-1. ⬇️ Download the `.rmskin` package from the repository (or releases).  
-2. 🖱 Double‑click the `.rmskin` file.  
-3. ✅ In the installer window, click **Install**.  
-4. 📂 Open **Rainmeter** → **Manage** → load the calendar skin.
+## ⚙️ Customization Options
+You can customize the look of the calendar skin by editing the settings in the `.ini` file found within the skin's folder. These options might include changing fonts, colors, and size. 
 
-### Option 2: Manual install (clone / ZIP)
+1. Navigate back to the skin folder you placed in the Skins directory.
+2. Open the `.ini` file with a text editor (like Notepad).
+3. Adjust the parameters as you wish.
+4. Save changes and refresh the skin in Rainmeter to see the updates.
 
-1. 📁 Copy the skin folder to:  
-   `Documents\Rainmeter\Skins\Persian-Iranian-Jalali-Solar-Hijri-Shamsi-Calendar`  
-2. 🔄 Right‑click Rainmeter tray icon → **Refresh all**.  
-3. ✅ Load the skin from **Manage**.  
+## 🔄 Updating the Skin
+To keep the calendar accurate, update it regularly:
 
----
+1. **Visit the Releases Page:** Check back for new versions at:
+   [GitHub Releases](https://github.com/Chemita06/Persian-Iranian-Jalali-Solar-Hijri-Shamsi-Calendar-Rainmeter/releases).
 
-## 🎛 Customization
+2. **Download the Latest Version:** Follow the same process as before to download and replace the old files.
 
-1. 🖱 Right‑click the skin → **Edit skin**.  
-2. ✏️ در فایل `.ini` می‌توانی موارد زیر را تغییر بدهی:
-   - Font name و font size  
-   - رنگ نوشته‌ها و پس‌زمینه  
-   - نمایش یا عدم نمایش تاریخ میلادی / قمری  
-   - نمایش یا عدم نمایش نام روز هفته  
-3. 💾 فایل را ذخیره کن، سپس روی اسکین **Refresh skin** بزن.
+3. **Refresh the Skin:** After replacing, right-click on the Rainmeter icon in your system tray and select "Refresh all".
 
----
+## 🎉 Support
+If you have questions or need assistance, you can create an issue on the GitHub repository. This will allow the community to help you with your concerns.
 
-## 📝 Notes
+Feel free to share your feedback or any modifications you make to the skin. Your input helps improve future versions.
 
-- برای دقت تاریخ، تنظیمات تاریخ و ساعت ویندوز باید درست باشد.  
-- اگر تاریخ اشتباه بود، Rainmeter را به‌روز و اسکین را یک‌بار Refresh کن.  
-
----
-
-## 🙏 Credits & License
-
-- الهام‌گرفته از انواع تقویم‌های فارسی / جلالی برای Rainmeter و پیاده‌سازی‌های تقویم شمسی.
-- https://github.com/farshad991/illustro-Persian-Calendar
-- https://github.com/adelghaenian/Shamsi-Calendar-Rainmeter-V2
+Thank you for downloading and enjoy your Persian Calendar on your desktop!
